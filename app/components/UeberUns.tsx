@@ -9,7 +9,7 @@ export default function UeberUns() {
         <div className="grid md:grid-cols-2 gap-12 items-center max-w-5xl mx-auto">
           <div className="space-y-4">
             <p className="text-lg leading-relaxed">
-              Seit über 15 Jahren sind wir Ihr vertrauensvoller Friseur im Herzen von Schwabing.
+              Seit über 15 Jahren sind wir Ihr vertrauensvoller Friseur direkt am Sendlinger Tor.
               Unser erfahrenes Team verbindet traditionelles Handwerk mit modernen Trends und
               neuesten Techniken.
             </p>
