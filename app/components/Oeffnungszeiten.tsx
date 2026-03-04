@@ -1,12 +1,12 @@
 import { Clock } from 'lucide-react';
 
 const hours = [
-  { day: 'Montag', time: '9:00 - 18:00' },
-  { day: 'Dienstag', time: '9:00 - 18:00' },
-  { day: 'Mittwoch', time: '9:00 - 18:00' },
+  { day: 'Montag', time: '9:00 - 20:00' },
+  { day: 'Dienstag', time: '9:00 - 20:00' },
+  { day: 'Mittwoch', time: '9:00 - 20:00' },
   { day: 'Donnerstag', time: '9:00 - 20:00' },
-  { day: 'Freitag', time: '9:00 - 18:00' },
-  { day: 'Samstag', time: '9:00 - 16:00' },
+  { day: 'Freitag', time: '9:00 - 20:00' },
+  { day: 'Samstag', time: '9:00 - 20:00' },
 ];
 
 export default function Oeffnungszeiten() {
