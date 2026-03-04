@@ -24,7 +24,7 @@ export default function Navbar() {
         <nav className="hidden h-16 items-center justify-between lg:flex">
           <Link href="/" className="flex items-center gap-2 font-semibold text-xl">
             <Scissors className="h-5 w-5" />
-            <span>Salon Schönheit</span>
+            <span>Zoras Haarstudio</span>
           </Link>
 
           <div className="flex items-center gap-1">
@@ -48,7 +48,7 @@ export default function Navbar() {
         <div className="flex h-16 items-center justify-between lg:hidden">
           <Link href="/" className="flex items-center gap-2 font-semibold text-xl">
             <Scissors className="h-5 w-5" />
-            <span>Salon Schönheit</span>
+            <span>Zoras Haarstudio</span>
           </Link>
 
           <Sheet>
@@ -62,7 +62,7 @@ export default function Navbar() {
                 <SheetTitle>
                   <Link href="/" className="flex items-center gap-2">
                     <Scissors className="h-5 w-5" />
-                    <span>Salon Schönheit</span>
+                    <span>Zoras Haarstudiot</span>
                   </Link>
                 </SheetTitle>
               </SheetHeader>
