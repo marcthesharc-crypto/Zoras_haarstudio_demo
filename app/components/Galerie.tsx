@@ -13,7 +13,7 @@ import {
 const items = [
   {
     id: '1',
-    title: 'Damenschnitt',
+    title: 'Herrenschnitt nass',
     image:
       'https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800&auto=format&fit=crop',
   },
@@ -25,25 +25,19 @@ const items = [
   },
   {
     id: '3',
-    title: 'Colorierung',
+    title: 'Bart trim',
     image:
       'https://images.unsplash.com/photo-1562322140-8baeececf3df?w=800&auto=format&fit=crop',
   },
   {
-    id: '4',
-    title: 'Strähnen',
-    image:
-      'https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?w=800&auto=format&fit=crop',
-  },
-  {
     id: '5',
-    title: 'Herrenschnitt',
+    title: 'Herrenschnitt trocken',
     image:
       'https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=800&auto=format&fit=crop',
   },
   {
     id: '6',
-    title: 'Pflege-Behandlung',
+    title: 'Produktempfehlung',
     image:
       'https://images.unsplash.com/photo-1582095133179-bfd08e2fb6b8?w=800&auto=format&fit=crop',
   },
