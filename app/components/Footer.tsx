@@ -5,10 +5,10 @@ const footerLinks = [
   {
     heading: 'Leistungen',
     items: [
-      { name: 'Damen-Haarschnitt', href: '#leistungen' },
-      { name: 'Herren-Haarschnitt', href: '#leistungen' },
-      { name: 'Färben & Strähnen', href: '#leistungen' },
-      { name: 'Haarpflege', href: '#leistungen' },
+      { name: 'Herren-Haarschnitt nass', href: '#leistungen' },
+      { name: 'Herren-Haarschnitt trocken', href: '#leistungen' },
+      { name: 'Bart trim', href: '#leistungen' },
+      { name: 'Haarprodukte', href: '#leistungen' },
     ],
   },
   {
@@ -44,10 +44,10 @@ export default function Footer() {
       <div className="mx-auto flex max-w-7xl flex-col items-center justify-center gap-4 px-6 py-10 md:flex-row md:items-start md:justify-between">
         <Link href="/" className="flex items-center gap-2">
           <Scissors className="h-6 w-6" />
-          <span className="text-lg font-semibold">Salon Schönheit</span>
+          <span className="text-lg font-semibold">Zoras Haarstudio</span>
         </Link>
         <p className="max-w-sm text-center text-xs leading-5 text-muted-foreground md:text-left">
-          Seit über 15 Jahren Ihr vertrauensvoller Friseur im Herzen von Schwabing. Wir verbinden
+          Seit über 15 Jahren Ihr vertrauensvoller Friseur direkt am Sendlinger Tor. Wir verbinden
           traditionelles Handwerk mit modernen Trends – für den perfekten Look.
         </p>
       </div>
@@ -103,7 +103,7 @@ export default function Footer() {
         </div>
 
         <p className="text-xs text-muted-foreground">
-          © {currentYear} Salon Schönheit. Alle Rechte vorbehalten.
+          © {currentYear} Zoras Haarstudio. Alle Rechte vorbehalten.
         </p>
       </div>
     </footer>
