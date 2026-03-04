@@ -5,11 +5,11 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Salon Schönheit - Ihr Friseur in Schwabing, München',
-  description: 'Professionelle Friseurdienstleistungen in München Schwabing. Haarschnitt, Färben, Styling und mehr. Vereinbaren Sie jetzt Ihren Termin!',
+  title: 'Zoras Haarstudio - Ihr Friseur am Sendlinger Tor, München',
+  description: 'Professionelle Friseurdienstleistungen in München, Sendlinger Tor. Haarschnitt, Färben, Styling und mehr. Vereinbaren Sie jetzt Ihren Termin!',
   openGraph: {
-    title: 'Salon Schönheit - Ihr Friseur in Schwabing, München',
-    description: 'Professionelle Friseurdienstleistungen in München Schwabing. Haarschnitt, Färben, Styling und mehr.',
+    title: 'Zoras Haarstudio - Ihr Friseur am Sendlinger Tor, München',
+    description: 'Professionelle Friseurdienstleistungen in München, Sendlinger Tor. Haarschnitt, Färben, Styling und mehr.',
     type: 'website',
     locale: 'de_DE',
   },
